@@ -13,4 +13,4 @@ API Source : https://github.com/MineSkin/api.mineskin.org
 - **[InventivetalentDev](https://github.com/InventivetalentDev)** - MineSkin owner
 
 ## License
-This Project is licensed under the MIT License - see the [LICENSE.md](https://github.com/riflowth/Robo-X/blob/master/LICENSE) file for details
+This Project is licensed under the MIT License - see the [LICENSE.md](https://github.com/riflowth/MineSkin-Guide/blob/master/LICENSE) file for details
